@@ -12,7 +12,7 @@ A place to save my projects from this date.
 
 <!-- Folder Section 1 -->
 <details>
-<summary><strong>📂 Project Name 1</strong></summary>
+<summary><strong>📂 9/9/2026: Blinking and Coding</strong></summary>
 
 - [File Link 1](link-to-file-1)
 - [File Link 2](link-to-file-2)
