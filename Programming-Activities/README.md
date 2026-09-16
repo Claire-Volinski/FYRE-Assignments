@@ -12,4 +12,4 @@ Program5.py - Made Sept 15, Attempted to create an arming / disarming sensor sys
 
 Program6.py - Made Sept 16, Used to turn a servo 180 degrees
 
-Program7.py - Made Sept 16, Used to sense the moisture on a sensor and chart readings every 10 seconds
+Program7.py - Made Sept 16, Used to sense the moisture on a sensor and chart readings every 10 second: Includes Moisture data / Summary Data
