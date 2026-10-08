@@ -13,7 +13,8 @@ Program5.py - Made Sept 15, Attempted to create an arming / disarming sensor sys
 Program6.py - Made Sept 16, Used to turn a servo 180 degrees
 
 Program7.py - Made Sept 16, Used to sense the moisture on a sensor and chart readings every 10 second: Includes Moisture data / Summary Data
-moisturedata.py - Made Sept 16, Information gathered by the sensor
+moisture_data.py - Made Sept 16, Information gathered by the sensor
+Summary Data.xlsx.py - Made Sept 16, Information gathered by the sensor
 
 Program8.py - Made Sept 23, Used to activate our code: When the light sensor senses light, the door opens- and then the moisture sensor detects moisture, the door opens
 
