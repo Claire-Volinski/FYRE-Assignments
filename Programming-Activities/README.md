@@ -30,11 +30,3 @@
 > ## Program8.py - Made Sept 23
 >> Used to activate our code: When the light sensor senses light, the door opens- and then the moisture sensor detects moisture, the door opens
 
-> ## Bookpreservercodefinal.py - Made Sept 28
->> Used to activate our preservation system for our box. There are still some edits to be made- such as the issues with the moisture sensor, as many groups have reported. however, there is also work to be done on our LED, which is having trouble turning on.
-
-> ## Boxcode(FINAL).py - Made Oct 1
->> Created out finalized version of the program, which functions correct, as well as is able to activate and instruct the LED to work properly. We found that our issue was one of the pins was labeled wrong.
-
-> ## ENGR-095 Presentation - Made Oct 7
->> The final presentation for our ENGR-095 module
