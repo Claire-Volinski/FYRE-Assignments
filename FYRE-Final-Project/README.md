@@ -10,13 +10,19 @@
 
 > ### Code
 
-> - **[Bookpreservercodefinal.py]** — Made Sept 28
->>   - Initial preservation system activation code
->>   - Contains sensor integration and control logic
+> - **[BookCode(DAY1)]** — Made Sept 28
+>>   - Initial attempt at our code (Work day 1)
+>>   - Housed many issues: sensors were not connecting
 >>  - Note: Ongoing work on moisture sensor calibration (known issue across multiple groups)
 
+> - **[BookCode(DAY2)]** — Made Sept 30
+>>   - Solved most of our issues with sensor connection and signal (Work day 2)
+>>   - However, the LED was not properly attatched
+>>  - Note: Ongoing work on moisture sensor calibration (known issue across multiple groups)
+
+
 > - **[Boxcode(FINAL).py]** — Made Oct 1
->>  - Finalized program version with full functionality
+>>  - Finalized program version with full functionality (Work day 3)
 >>  - Proper LED control and sensor readouts
 >>  - Fixed pin labeling issues from earlier versions
 
