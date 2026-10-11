@@ -10,24 +10,21 @@
 
 > ### Code
 
-> - **[Bookpreservercodefinal.py](./Bookpreservercodefinal.py)** — Made Sept 28
+> - **[Bookpreservercodefinal.py]** — Made Sept 28
 >>   - Initial preservation system activation code
 >>   - Contains sensor integration and control logic
 >>  - Note: Ongoing work on moisture sensor calibration (known issue across multiple groups)
 
-> - **[Boxcode(FINAL).py](./Boxcode(FINAL).py)** — Made Oct 1
+> - **[Boxcode(FINAL).py]** — Made Oct 1
 >>  - Finalized program version with full functionality
 >>  - Proper LED control and sensor readouts
 >>  - Fixed pin labeling issues from earlier versions
 
 > ### Documentation
 
->> - **[ENGR-095 Presentation](./ENGR-095-Presentation.pdf)** — Made Oct 7
+>> - **[ENGR-095 Presentation]** — Made Oct 7
 >>   - Final presentation for the ENGR-095 module
 
-> ## Getting Started
-
->> [Add instructions on how to run the code, hardware setup, dependencies, etc.]
 
 ## Team
 
