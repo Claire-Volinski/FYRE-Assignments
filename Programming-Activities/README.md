@@ -1,4 +1,4 @@
-# Programming Assignments
+# Module 1: Sensing the World Programming Assignments
 
 > ## Program1.py - Made Sept 9
 >> Prints "Hello World" / Outputs my name in the REPL
