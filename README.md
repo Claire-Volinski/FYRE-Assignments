@@ -1,19 +1,10 @@
 # FYRE - Assignments
-This Repo is where course assignments for ENGR-095 FYRE Module 1 will be saved.
-Program1.py - Made Sept 9, Prints "Hello World" 
 
-Program2.py - Made Sept 9, Prints my name
+> Programming Assignments
+>> These are the assignments we did as a part of the learning base concepts within the module "Sensing the World."
 
-Program3.py - Made Sept 9, Revised Program 2 using Variables
+> Reflections
+>> These are my reflection assignments from the module "Sensing the World."
 
-Program4.py - Made Sept 9, Created an infinite blinking loop
-
-Program5.py - Made Sept 15, Attempted to create an arming / disarming sensor system- which would be in disarmed mode- however, wouldn't arm, essentially block the latter half of our sensor code's function.
-
-Program6.py - Made Sept 16, Used to turn a servo 180 degrees
-
-Program7.py - Made Sept 16, Used to sense the moisture on a sensor and chart readings every 10 second: Includes Moisture data / Summary Data
-moisture_data.py - Made Sept 16, Information gathered by the sensor
-Summary Data.xlsx.py - Made Sept 16, Information gathered by the sensor
-
-Program8.py - Made Sept 23, Used to activate our code: When the light sensor senses light, the door opens- and then the moisture sensor detects moisture, the door opens
+> Final-Project
+>> This Repo contains all the files related to my final project. My group created a storage device that houses rare / old museum and library artifacts. (Historical significance: Books, other objects, etc.)
