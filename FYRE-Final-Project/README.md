@@ -34,6 +34,6 @@
 
 ## Team
 
-- Claire Volinski
-- Euan Maxwell
-- Layla Neresko
+> - Claire Volinski
+> - Euan Maxwell
+> - Layla Neresko
