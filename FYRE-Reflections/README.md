@@ -6,5 +6,5 @@
 > Reflection 2: MicroControllers_Reflection.pdf
 >> This reflection was based on the second section of the module, which focused on microcontrollers.
 
-> Reflection 1:
->> BLAH BLAH
+> Reflection 3: MicroControllers_Reflection.pdf
+>> This reflection was based on the final project section of the module.
